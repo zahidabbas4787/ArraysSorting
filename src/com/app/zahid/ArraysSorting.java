@@ -28,6 +28,7 @@ public class ArraysSorting {
 		}
 		Arrays.sort(s);
 		System.out.println("object array after sorting");
+        System.out.println("hello")
 
 		for (String a3 : s) {
 			System.out.println(a3);
