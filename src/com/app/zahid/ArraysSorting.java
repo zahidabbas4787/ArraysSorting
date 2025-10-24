@@ -21,6 +21,7 @@ public class ArraysSorting {
 		}
 		String[] s = { "a", "z", "b" };
 		System.out.println("object array before sorting");
+        System.out.println("object array before sorting");
 
 		for (String a2 : s) {
 			System.out.println(a2);
